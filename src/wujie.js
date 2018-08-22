@@ -8,3 +8,6 @@ function b(){
 console.log('master')
 
 window.top.document = 'ceshi'
+
+
+console.log('wujie-fei')
